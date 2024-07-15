@@ -2,3 +2,5 @@
 .vscode
 build
 build/*
+test/a.out
+test/*.vtk
